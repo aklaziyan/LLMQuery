@@ -15,46 +15,5 @@
     "cinsiyet": "Erkek / Kadın",
     "gelir_grubu": "Aylık gelir grubu (düşük, orta, yüksek)",
     "segment": "Bireysel / KOBİ / Ticari"
-  },
-  "kredi_tahsis_log": {
-    "log_id": "Olayın benzersiz ID’si",
-    "kredi_id": "Hangi krediye ait olduğu",
-    "islem": "Tahsis sürecindeki işlem adı",
-    "islem_tarihi": "İşlemin gerçekleştiği tarih/saat"
-  },
-  "odeme_planlari": {
-    "odeme_id": "Ödeme planının ID’si",
-    "kredi_id": "Hangi krediye ait olduğu",
-    "vade_tarihi": "Ödemenin yapılacağı tarih",
-    "taksit_tutari": "Taksit miktarı",
-    "odeme_durumu": "Ödendi / Ödenmedi bilgisi"
-  },
-  "kanallar": {
-    "kanal_kodu": "Web, Şube, Mobil",
-    "aciklama": "Kanal detay açıklaması"
-  },
-  "risk_skorlari": {
-    "musteri_id": "Müşteri ID",
-    "skor_tarihi": "Skorun hesaplandığı tarih",
-    "kredi_risk_skoru": "Sayısal risk skoru",
-    "risk_grubu": "Düşük / Orta / Yüksek riski gösterir"
-  },
-  "kredi_turleri": {
-    "kredi_turu_kodu": "Konut, taşıt, ihtiyaç vb. türleri temsil eder",
-    "aciklama": "Kredi türü açıklaması"
-  },
-  "gelir_belgeleri": {
-    "belge_id": "Belgenin benzersiz ID’si",
-    "musteri_id": "Belge sahibi müşterinin ID’si",
-    "belge_tipi": "Maaş bordrosu, serbest meslek, kira geliri vb.",
-    "belge_tarihi": "Belgenin alındığı tarih",
-    "belge_tutari": "Belgedeki gelir miktarı"
-  },
-  "referans_kayitlari": {
-    "referans_id": "Referans kaydının ID’si",
-    "musteri_id": "Referans verilen müşteri",
-    "referans_tipi": "Kredi kartı, açık kredi, geçmiş borç",
-    "durum": "Ödeme düzeni, gecikme var mı gibi açıklamalar",
-    "tarih": "Referansın alındığı tarih"
   }
 }
